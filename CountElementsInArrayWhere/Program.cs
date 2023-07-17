@@ -41,7 +41,7 @@ namespace CountElementsInArrayWhere
             int[] ints = new int[lengthArray];
 
             FillArray(ints);
-            Console.WriteLine(string.Join(", ", ints));
+            Console.WriteLine("[" + string.Join(", ", ints) + "]");
 
             Console.WriteLine("Элементов, удовлетворяющих условию 0 < M[i] < 125 в массиве: " + CountElementsWhere(ints));
         }
