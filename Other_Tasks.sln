@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "max_min_in_array", "max_min
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountElementsInArrayWhere", "CountElementsInArrayWhere\CountElementsInArrayWhere.csproj", "{271AAFF8-7F99-4C56-A267-A4F9E235C3B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfSequence", "SumOfSequence\SumOfSequence.csproj", "{71C61406-EFEB-4023-BF2C-341D7056CBB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{271AAFF8-7F99-4C56-A267-A4F9E235C3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{271AAFF8-7F99-4C56-A267-A4F9E235C3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{271AAFF8-7F99-4C56-A267-A4F9E235C3B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71C61406-EFEB-4023-BF2C-341D7056CBB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C61406-EFEB-4023-BF2C-341D7056CBB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C61406-EFEB-4023-BF2C-341D7056CBB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C61406-EFEB-4023-BF2C-341D7056CBB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
